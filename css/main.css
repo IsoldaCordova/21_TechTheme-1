@@ -1,0 +1,39 @@
+i{
+	margin-left: 150px;
+}
+.compus{
+	width: 100%;
+}
+.lorem{
+	float: right;
+	margin-right: 240px;
+}
+.text1{
+	margin-left: 110px;
+	text-align: justify;
+}
+.boton4{
+	background: #171766;
+	padding: 10px;
+	margin-left: 520px;
+	width: 100px;
+	color: white;
+	height: 45px;
+}
+.aqua:hover{
+	background: #00CC99;
+}
+.botones{
+	padding-left: 190px;
+	padding-right: 210px;
+
+}
+.imgtext{
+	margin-top: -50px;
+}
+.pad{
+	margin-left: 25px;
+}
+.mov{
+	padding-left: 430px;
+}
